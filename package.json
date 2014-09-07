@@ -1,0 +1,16 @@
+{
+  "name": "sample-app",
+  "description": "A simple http get and post stub service that returns or saves random user data",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.8.0",
+    "colors": "^0.6.2",
+    "cors": "^2.4.1",
+    "express": "4.x",
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "request": "^2.42.0"
+  }
+}
